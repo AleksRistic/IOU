@@ -1,0 +1,6 @@
+module Pods_IOU_IOUTests {
+  umbrella header "Pods-IOU-IOUTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
